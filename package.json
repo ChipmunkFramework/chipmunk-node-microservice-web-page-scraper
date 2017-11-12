@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/ChipmunkFramework/chipmunk-node-microservice-web-page-scraper#readme",
   "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
     "puppeteer": "^0.13.0"
   }
 }
