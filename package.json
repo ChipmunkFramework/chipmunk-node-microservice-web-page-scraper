@@ -9,6 +9,7 @@
   "repository": "git@github.com:ChipmunkFramework/chipmunk-node-microservice-web-page-scraper.git",
   "keywords": [
     "chipmunk",
+    "web-page-scraper",
     "scraper"
   ],
   "author": "Jean-Nicolas Boulay <jn@yaloub.com>",
