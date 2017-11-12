@@ -1,0 +1,24 @@
+{
+  "name": "chipmunk-node-microservice-web-page-scraper",
+  "version": "1.0.0",
+  "description": "Chipmunk Node.js microservice web page scraper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git@github.com:ChipmunkFramework/chipmunk-node-microservice-web-page-scraper.git",
+  "keywords": [
+    "chipmunk",
+    "scraper"
+  ],
+  "author": "Jean-Nicolas Boulay <jn@yaloub.com>",
+  "license": "MIT",
+  "private": null,
+  "bugs": {
+    "url": "https://github.com/ChipmunkFramework/chipmunk-node-microservice-web-page-scraper/issues"
+  },
+  "homepage": "https://github.com/ChipmunkFramework/chipmunk-node-microservice-web-page-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
